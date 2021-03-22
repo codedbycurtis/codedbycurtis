@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hey, it's Curtis!
+### These are but a few of the personal projects I work on in the little free time I have as an A-level student.
+#### A little bit about me:  
+I am a 17-year-old aspiring software engineer, currently learning advanced C# and WPF.
 
+These projects serve no real functional purpose and are not meant to be taken as serious substitutes for other, more advanced applications, however, feel free to download them and give some feedback. Anything is appreciated.
+
+### Thanks for taking a look! 😄
 <!--
 **codedbycurtis/codedbycurtis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
